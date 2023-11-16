@@ -44,7 +44,7 @@ const Home = (props) => {
                       <path d="M426 426h172q0-34-26-59t-60-25-60 25-26 59zM810 396l128 116h-128v342h-212v-256h-172v256h-212v-342h-128l426-384 170 154v-112h128v226z"></path>
                     </svg>
                     <Link href="/buy">
-                      <a className="home-link Link">Buy Properties</a>
+                      <a className="home-link Link">Buy Properties..</a>
                     </Link>
                     <svg
                       viewBox="0 0 513.1702857142857 1024"
